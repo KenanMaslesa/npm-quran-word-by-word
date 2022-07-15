@@ -1,0 +1,17 @@
+{
+  "name": "@kmaslesa/quran-word-by-word",
+  "version": "1.0.6",
+  "description": "Qur'an words",
+  "main": "index.js",
+  "keywords": [
+    "quran",
+    "quran words",
+    "kur'an",
+    "words",
+    "islam",
+    "muslim",
+    "quran-word-by-word"
+  ],
+  "author": "Kenan Maslesa",
+  "license": "ISC"
+}
